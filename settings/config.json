@@ -1,11 +1,11 @@
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
+	"ownername":"Satria",
+	"ownernumber":"6283811034750",
+	"botname":"BreakBotz",
 	"thumbnail":"./settings/haruka.jpg",
 	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
 	"limit": {
-		"free":20,
+		"free":100,
 		"premium":1000
 	},
 	"session_name":"./session.json"
